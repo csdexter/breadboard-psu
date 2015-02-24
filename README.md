@@ -1,5 +1,4 @@
 #Breadboard PSU#
-A 3.3V/5V dual-output PSU for breadboards that follows the KISS principle.
 
 (C) 2015 Radu - Eosif Mihailescu <radu.mihailescu@linux360.ro>
 
