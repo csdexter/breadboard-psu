@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
@@ -10072,7 +10072,7 @@ Source: www.kingbright.com</description>
 <instance part="D1" gate="G$1" x="104.14" y="63.5"/>
 <instance part="D3" gate="G$1" x="203.2" y="60.96"/>
 <instance part="D2" gate="G$1" x="203.2" y="93.98"/>
-<instance part="LOGO2" gate="G$1" x="76.2" y="144.78"/>
+<instance part="LOGO2" gate="G$1" x="175.26" y="15.24"/>
 </instances>
 <busses>
 </busses>
